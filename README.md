@@ -1,6 +1,6 @@
 ## Note:
 
-For COMPLETE reusability of the code, add a _data_ folder and include the file containing data in it."
+For COMPLETE reusability of the code, add a _data_ folder and include the file containing data in it.
 
 ## Introduction
 
